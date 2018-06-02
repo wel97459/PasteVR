@@ -1,2 +1,2 @@
 # PasteVR
-A small tool for Copying and Pasting into NeosVR
+A small tool for Copying and Pasting, to and from NeosVR.
